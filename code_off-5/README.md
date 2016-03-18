@@ -1,12 +1,3 @@
-# Code-Off
-Code Off is an initiative that challenges developers to take 30 minutes off a Friday afternoon to work on something interesting with their peers. Code Off also aims to help developers expand their Github portfolio and collaborate with the development community. Each Friday afternoon at 15:30 CAT a new problem will be released on Github. Fork the repository, and get started.
-The automated leaderboard is still in development. We encourage you to collaborate with other developers on Github.
-
-http://www.prolificidea.com/codeoff.html
-
-#How to Participate?
-Fork the Code Off repo and push your solution to your fork.
-
 #Code Off #5 - Maze Runner
 
 ##Premise
@@ -57,6 +48,7 @@ An example input text file:
 
 ###Output
 A text file in the following format.
+The output file should be titled, "code_off-5-x.out", where x is the input text case number. The file should be located in the root of that specific code off directory.
 
 ```
 ###################U#
